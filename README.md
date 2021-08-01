@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working as Front End Developer
 - 🌱 I’m currently learning Javascript, React JS and React Native
-- 📫 How to reach me: instagram.com/fe.sousa92/
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I have a degree 🎓 in Computer Network, but I rather programming 🖥️⌨️🖱️
 
