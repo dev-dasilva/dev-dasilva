@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m currently working as Front End Developer
-- 🌱 I’m currently learning Javascript, React JS and React Native
+- 🌱 I’m currently learning Javascript, React JS and PHP
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: I have a degree 🎓 in Computer Network, but I rather programming 🖥️⌨️🖱️
 
