@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🔭 I’m currently working as Front End Developer, but seeking working as Lamp Stack Developer
+- 🔭 I’m currently working as Front End Developer, but aiming to work as Lamp Stack Developer
 - 📚 I know Html, css, Javascript already
 - 🌱 I’m currently learning PHP and MongoDB
 - 👨🏽‍💻 Pronouns: ele/dele
