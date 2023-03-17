@@ -4,10 +4,12 @@
 
 <br/>
 
-- 🔭 I’m currently working as Front End Developer
-- 🌱 I’m currently learning Javascript, React JS and PHP
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: I have a degree 🎓 in Computer Network, but I rather programming 🖥️⌨️🖱️
+- 🔭 I’m currently working as Front End Developer, but seeking working as Lamp Stack Developer
+- 📚 I know Html, css, Javascript already
+- 🌱 I’m currently learning PHP and MongoDB
+- 👨🏽‍💻 Pronouns: ele/dele
+- 🤣 Fun fact: I have a degree 🎓 in Computer Network, but I rather programming 🖥️⌨️🖱️
+- 👨🏽‍🎓 Next degree: Computer Science 
 
 <br/>
 
