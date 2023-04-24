@@ -4,9 +4,9 @@
 
 <br/>
 
-- 🔭 I’m currently working as Front End Developer, but aiming to work as Lamp Stack Developer
-- 📚 I know Html, css, Javascript already
-- 🌱 I’m currently learning PHP and MongoDB
+- 🔭 I’m currently working as Front End Developer, but aiming to work as FullStack Developer
+- 📚 I know Html, css, Javascript, PHP and Jquary already
+- 🌱 I’m currently learning MongoDB
 - 👨🏽‍💻 Pronouns: ele/dele
 - 🤣 Fun fact: I have a degree 🎓 in Computer Network, but I rather programming 🖥️⌨️🖱️
 - 👨🏽‍🎓 Next degree: Computer Science 
