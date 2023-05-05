@@ -1,5 +1,5 @@
-# Hi! I'm Felipe Sousa 👋 
-## and Welcome to my Github page
+# Greetings! I'm Felipe 👋 
+## Welcome to my Github page
 #### When I wrote this code, only God and I understood what I was doing. Now, only God knows.
 
 <br/>
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Jquery, MongoDB**
 - 👨🏽‍💻 Pronouns: ele/dele
 - 💬 Ask me about **PHP & JS**
-- 🤣 When someone asks you if you’re a developer, you say YES (Ghostbuster '84)
+- 🤣 When someone asks you if you’re a developer, you say YES!
 - 👨🏽‍🎓 Next degree: Computer Science 
 
 <br/>
