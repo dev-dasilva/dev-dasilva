@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [User-Authentication-UI---HTML-PHP-CSS-JS](https://github.com/FelipeSousa92/User-Authentication-UI---HTML-PHP-CSS-JS)
 - 🌱 I’m currently learning **Jquery, MongoDB**
-- 👨🏽‍💻 Pronouns: ele/dele
+- 👨🏽‍💻 Pronouns: ele/dele he/him
 - 💬 Ask me about **PHP & JS**
 - 🤣 When someone asks you if you’re a developer, you say YES!
 - 👨🏽‍🎓 Next degree: Computer Science 
