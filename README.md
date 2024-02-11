@@ -63,7 +63,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dev-dasilva}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=230&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=230&color=371F76&reversal=true&section=footer"/>
+
 
 <br/>
 <br/>
